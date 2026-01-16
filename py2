@@ -1,0 +1,27 @@
+x=9
+y=6.7
+z='true'
+
+x=10
+
+print (x,y,z)
+#%%
+a=2+3
+b=9-3
+c=9/3
+d=2*4
+e=3**8
+f=10//3
+g=20%18
+
+print(a,b,c,d,e,f,g)
+#%%
+x=67 #this is a integer
+
+print(x)
+print ('my name is william james jonathan')
+print (2**10/5)
+
+#%%
+subtotal = (round (16.68+6.98+16.78+15.26 +3.00+ 4.39, 3))
+print(subtotal)
